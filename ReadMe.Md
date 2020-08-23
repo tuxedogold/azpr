@@ -1,3 +1,6 @@
+# automated azure pull requests. 
+Since azure devops does not give you a link after pushing changes to create a pull request out of the box, here is an automated command to push and generate a pull request.
+
 # setup instructions
 
 * open up a cmd prompt as administrator
