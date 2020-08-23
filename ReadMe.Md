@@ -17,6 +17,8 @@ Since azure devops does not give you a link after pushing changes to create a pu
 
 Once you are ready to create a pull request, pull lastest from the master branch
 then type
+
 `azpr`
+
 
 It will propmt you with a checklist to reivew. Press enter and it will push your latest changes and create a pull request titled as your branch name. It will also open that pull request so you can edit/add for further review
